@@ -1,0 +1,7 @@
+plugins:
+  signatures_enabled:
+    default: true
+    client: true
+  signatures_advanced_mode:
+    default: true
+    client: true
